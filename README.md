@@ -7,7 +7,8 @@ A model-based collaborative filtering project that recommends products based on 
   End-to-end workflow. Loads ratings, builds an item-item recommendation model with TruncatedSVD, computes correlations, and returns similar products for a selected item.
 - `README.md`  
   Project summary and usage notes.
-- Data file: `ratings_Beauty.csv` sample-sized version of the file in the repository root. Download full-seized file from the source listed below.
+- Data file: `ratings_Beauty.csv`
+  Sample-sized version of the file in the repository root. Download full-seized file from the source listed below.
 
 ## Dataset
 - Name: Amazon Beauty product ratings  
